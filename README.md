@@ -1,6 +1,6 @@
 ## Name and live url
 Stephanie Kuo Week9 - Employee Summary
-https://sfds1.github.io/hw
+https://sfds1.github.io/hw9employeelisting/
 
 
 ## Description
